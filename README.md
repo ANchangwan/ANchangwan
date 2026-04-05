@@ -4,6 +4,14 @@
 > Building scalable systems with React, Spring Boot & AWS
 
 ---
+### 📈 GitHub Stats
+![Top Langs](https://github-readme-stats-tau-silk-55.vercel.app/api/top-langs/?username=ANchangwan&layout=donut&theme=catppuccin_latte)
+
+![GitHub Stats](https://github-readme-stats-tau-silk-55.vercel.app/api?username=ANchangwan&show_icons=true&theme=catppuccin_latte)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ANchangwan&theme=catppuccin_latte)
+
+
 
 ### 🖥️ Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -56,9 +64,4 @@
 
 ---
 
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats-tau-silk-55.vercel.app/api/top-langs/?username=ANchangwan&layout=donut&theme=catppuccin_latte)
 
-![GitHub Stats](https://github-readme-stats-tau-silk-55.vercel.app/api?username=ANchangwan&show_icons=true&theme=catppuccin_latte)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ANchangwan&theme=catppuccin_latte)
