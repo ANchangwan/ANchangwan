@@ -58,8 +58,5 @@
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANchangwan&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANchangwan&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-git-master-anchangwans-projects.vercel.app/api/top-langs/?username=ANchangwan&layout=donut&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ANchangwan&theme=tokyonight)
