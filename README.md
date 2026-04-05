@@ -1,6 +1,6 @@
 ## Hi there, I'm Changwan 👋
 
-> Full-Stack Engineer · Cloud & Infra enthusiast  
+> DevOps Engineer · Cloud & Infra enthusiast  
 > Building scalable systems with React, Spring Boot & AWS
 
 ---
@@ -57,6 +57,8 @@
 ---
 
 ### 📈 GitHub Stats
+![Top Langs](https://github-readme-stats-tau-silk-55.vercel.app/api/top-langs/?username=ANchangwan&layout=donut&theme=catppuccin_latte)
 
-![Top Langs](https://github-readme-stats-git-master-anchangwans-projects.vercel.app/api/top-langs/?username=ANchangwan&layout=donut&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ANchangwan&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-tau-silk-55.vercel.app/api?username=ANchangwan&show_icons=true&theme=catppuccin_latte)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ANchangwan&theme=catppuccin_latte)
