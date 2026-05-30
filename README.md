@@ -5,10 +5,6 @@
 
 ---
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats-tau-silk-55.vercel.app/api/top-langs/?username=ANchangwan&layout=donut&theme=catppuccin_latte)
-
-![GitHub Stats](https://github-readme-stats-tau-silk-55.vercel.app/api?username=ANchangwan&show_icons=true&theme=catppuccin_latte)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ANchangwan&theme=catppuccin_latte)
 
 
